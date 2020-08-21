@@ -1,4 +1,4 @@
-# brainforest
+# brainforest ![brainforest](images/brainforest.jpg)
 
 This repo should give an overview of the datasets collected for [brainforest](https://brainforest.global/)
 
