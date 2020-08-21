@@ -1,4 +1,5 @@
-# brainforest
+# brainforest 
+![brainforest](images/brainforest.jpg)
 
 This repo should give an overview of the datasets collected for [brainforest](https://brainforest.global/)
 
@@ -9,3 +10,4 @@ Datasets have been collected at two locations so far (21.08.2020).
 2. Nuss - Baumschule Gubler AG, Hörhausen, Switzerland
 
 ### Waldlabor
+![Waldlabor - Mapped area](images/waldlabor_mapped.png)
