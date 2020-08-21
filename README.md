@@ -8,7 +8,7 @@ Datasets have been collected at two locations so far (21.08.2020).
 1. Waldlabor, Hönggerberg, Zürich, Switzerland
 2. Nuss - Baumschule Gubler AG, Hörhausen, Switzerland
 
-![Overview](images/overview.png)
+<img src="images/overview.png" height= 1000>
 
 ### Waldlabor
 ![Waldlabor - Mapped area](images/waldlabor_mapped.png)
