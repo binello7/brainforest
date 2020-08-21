@@ -13,4 +13,6 @@ Datasets have been collected at two locations so far (21.08.2020).
 </p>
 
 ### Waldlabor
-![Waldlabor - Mapped area](images/waldlabor_mapped.png)
+<p align="center">
+  <img src="images/waldlabor_mapped.png" height=600>
+</p>
