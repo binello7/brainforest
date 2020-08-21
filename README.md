@@ -1,4 +1,4 @@
-# brainforest ![brainforest](images/brainforest.jpg =15x)
+# brainforest ![brainforest](images/brainforest.jpg =15x15)
 
 This repo should give an overview of the datasets collected for [brainforest](https://brainforest.global/)
 
